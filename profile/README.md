@@ -27,6 +27,8 @@ A scheme for providing this verifiability of key bindings must be:
   and the service provider should be practical to deploy
   for internet scale numbers of keys and for typical end-user devices.
 
+Full charter: https://datatracker.ietf.org/wg/keytrans/about/
+
 # Contributing
 
 ## Mailing List:
